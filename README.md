@@ -55,6 +55,6 @@ Let’s connect if you’re looking for someone who brings technical expertise, 
 
 ---
 
-## Contact
-- Email: [pablycogamedev@gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/pablo-villanueva-3157491b4/]
+## Contact:
+- [Email](pablycogamedev@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/pablo-villanueva-3157491b4/)
