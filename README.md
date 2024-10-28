@@ -12,7 +12,8 @@
 - **Technologies Used**: Unreal Engine, Aseprite, Blender, etc.
 - **Key Features**: A mix of PS1, Nintendo and pixel art graphics.
 - **Screenshots**: 
-![[Library_header.png]]
+
+![Chester](https://github.com/Pablyco/GameOptimizerPortfolio/blob/main/Images/Library_header.png?raw=true)
 - **Play or Download**: [Link to Game](https://store.steampowered.com/app/2506390/Chester_The_Chest/)
 
 ---
