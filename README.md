@@ -1,4 +1,5 @@
-# My Game Optimization Portfolio
+# My Game Optimization Portfolio https://img.shields.io/badge/any%20text-%2016.66ms%20%F0%9F%9A%80-green
+
 
 ## Home
 - Brief introduction about yourself and your focus on game optimization.
