@@ -36,7 +36,7 @@ A self-imposed challenge to push my technical boundaries and expand my skill set
     - Optimized the movement system for smooth, responsive gameplay
 
 ![AI](https://github.com/Pablyco/UnrealEnginePortfolio/blob/main/Images/Library_header_AI.png?raw=true)
-![2D](https://github.com/Pablyco/GameOptimizerPortfolio/blob/main/Images/Library_header.png?raw=true)
+![2D](https://github.com/Pablyco/UnrealEnginePortfolio/blob/main/Images/Library_header_2D.png?raw=true)
 ![2.5D](https://github.com/Pablyco/UnrealEnginePortfolio/blob/main/Images/Library_header_2.5D.png?raw=true)
 ![Shooter](https://github.com/Pablyco/UnrealEnginePortfolio/blob/main/Images/Library_header_Quake.png?raw=true)
 ## Technical Highlights:
