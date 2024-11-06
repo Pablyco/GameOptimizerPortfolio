@@ -1,11 +1,11 @@
 # Game Development Portfolio ![Static Badge](https://img.shields.io/badge/60fps%20-%2016.66ms%20%F0%9F%9A%80-green?logo=Unreal%20Engine&logoColor=white)
 
-Hello! I’m Pablo Villanueva, known as Pablyco, an Unreal Engine Developer specializing in programming and game optimization. This portfolio showcases my work in game mechanics. 
-
+Hello! I’m Pablo Villanueva, known as Pablyco, an Unreal Engine Developer specialized in programming mainly in gameplay. This portfolio showcases my work in game mechanics. 
+ 
 ---
 ## 🕹️ Projects:
 
-Technologies Used in my projects are Unreal Engine (Blueprints, C++), Aseprite, Blender,Adobe,etc.
+Technologies Used in my projects are Unreal Engine (Blueprints, C++), Aseprite, Blender,Obsidian,etc.
 Thanks you [Charckes](https://sketchfab.com/charlesmoch),  [Kenney](https://kenney.nl/) and [Quinn](https://quin-n.itch.io/) for the free assets used in Portfolio Project.
 ### Chester The Chest
 
